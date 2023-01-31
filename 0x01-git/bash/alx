@@ -1,1 +1,1 @@
-echo "ALX" echo "ALX School is so cool!"
+echo "ALX" \r echo "ALX School is so cool!"
